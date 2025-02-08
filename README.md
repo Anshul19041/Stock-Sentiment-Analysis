@@ -24,16 +24,6 @@ Natural Language Processing: CountVectorizer (n-gram feature extraction)
 
 Data Handling: CSV file processing with Pandas
 
-## How to Use
-
-Install dependencies.
-
-Load the dataset and preprocess text data.
-
-Train the model using RandomForestClassifier.
-
-Evaluate the model performance using accuracy metrics.
-
 ## Future Enhancements
 
 Implement Deep Learning models (LSTMs, Transformers) for better accuracy.
